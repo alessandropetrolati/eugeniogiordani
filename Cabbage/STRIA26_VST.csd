@@ -1,3 +1,4 @@
+<Cabbage>
 form size(1100, 780), caption("STRIA_26_VST"), pluginID("st26"), colour(130,170,210),fontcolour("white");,svgpath(".");colour("lightgrey")
 
 ;csoundoutput bounds(768, 439, 295, 279)

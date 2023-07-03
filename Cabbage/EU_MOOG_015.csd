@@ -1,3 +1,5 @@
+<Cabbage>
+
 form caption("EUMOOG_2017_vst015 - by e.giordani") size(1420, 690), colour(150,150,150), pluginID("m015"), 
 image bounds(9, 643, 1405, 42),  colour(160, 100, 30, 255), 
 ;VERSION 0.15 - 15/04/2017
@@ -478,7 +480,7 @@ label bounds(1360, 542, 64, 14),text("|"),fontcolour("white"),fontstyle(0)
 ;===============================================================================
 ;===============================================================================
 
-
+</Cabbage>
 
 ;button bounds(554, 651, 79, 27), channel("SAVE"),text("SAVE")
 
